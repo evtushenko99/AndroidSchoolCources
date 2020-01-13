@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Учебная программа школы android</string>
+    <string name="all">Все</string>
+    <string name="ungrouped">Без группировки</string>
+    <string name="group_by_week">Группировать по неделям</string>
+    <string name="group_by_month">Группировать по месяцам</string>
+    <string name="week_number">Неделя %1$d</string>
+    <string name="failed_to_load_lectures">Не удалось загрузить список лекций</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="default_margin">20dp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="default_padding">20dp</dimen>
+    <dimen name="padding_large">35dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+</resources>
